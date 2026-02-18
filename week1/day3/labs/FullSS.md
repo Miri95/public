@@ -3,10 +3,10 @@
 **Assignment:** [Using Miro labs to Learn Scrum Framework]
 
 ## Screenshots
-![Screenshot 1](week1/day3/labs/Screenshot%202026-02-18%20202916.png)
-![Screenshot 2](week1/day3/labs/Screenshot%202026-02-18%20203029.png)
-![Screenshot 3](week1/day3/labs/Screenshot%202026-02-18%20203145.png)
-![Screenshot 4](week1/day3/labs/Screenshot%202026-02-18%20203216.png)
-![Screenshot 5](week1/day3/labs/Screenshot%202026-02-18%20203250.png)
-![Screenshot 6](week1/day3/labs/Screenshot%202026-02-18%20203309.png)
-![Screenshot 7](week1/day3/labs/Screenshot%202026-02-18%20203328.png)
+![Screenshot 1](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20202916.png?raw=true)
+![Screenshot 2](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203029.png?raw=true)
+![Screenshot 3](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203145.png?raw=true)
+![Screenshot 4](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203216.png?raw=true)
+![Screenshot 5](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203250.png?raw=true)
+![Screenshot 6](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203309.png?raw=true)
+![Screenshot 7](https://github.com/Miri95/public/blob/main/week1/day3/labs/Screenshot%202026-02-18%20203328.png?raw=true)
